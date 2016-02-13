@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 279fbb3c268cb41e78c4cced4cebfe85
+timeCreated: 1455383681
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OVNI-ROJO-132x71_0
+    21300002: OVNI-ROJO-132x71_1
+    21300004: OVNI-ROJO-132x71_2
+    21300006: OVNI-ROJO-132x71_3
+    21300008: OVNI-ROJO-132x71_4
+    21300010: OVNI-ROJO-132x71_5
+    21300012: OVNI-ROJO-132x71_6
+    21300014: OVNI-ROJO-132x71_7
+    21300016: OVNI-ROJO-132x71_8
+    21300018: OVNI-ROJO-132x71_9
+    21300020: OVNI-ROJO-132x71_10
+    21300022: OVNI-ROJO-132x71_11
+    21300024: OVNI-ROJO-132x71_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OVNI-ROJO-132x71_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 510
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 31.5}
+        - {x: -64.5, y: -2.5}
+        - {x: -64.5, y: -31.5}
+        - {x: 64.5, y: -31.5}
+        - {x: 64.5, y: -6.5}
+        - {x: 29.5, y: 31.5}
+    - name: OVNI-ROJO-132x71_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 510
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 31.5}
+        - {x: -64.5, y: -2.5}
+        - {x: -64.5, y: -31.5}
+        - {x: 64.5, y: -31.5}
+        - {x: 64.5, y: -6.5}
+        - {x: 29.5, y: 31.5}
+    - name: OVNI-ROJO-132x71_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 438
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 31.5}
+        - {x: -64.5, y: -2.5}
+        - {x: -64.5, y: -31.5}
+        - {x: 64.5, y: -31.5}
+        - {x: 64.5, y: -6.5}
+        - {x: 29.5, y: 31.5}
+    - name: OVNI-ROJO-132x71_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 360
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 72}
+        - {x: -61.5, y: 38}
+        - {x: -64.5, y: 31}
+        - {x: -64.5, y: 19}
+        - {x: -58.5, y: 16}
+        - {x: -41.5, y: 10}
+        - {x: -41.5, y: -17}
+        - {x: -38.5, y: -49}
+        - {x: -32.5, y: -62}
+        - {x: -24.5, y: -72}
+        - {x: 44.5, y: -72}
+        - {x: 55.5, y: -70}
+        - {x: 64.5, y: -30}
+        - {x: 64.5, y: 34}
+        - {x: 36.5, y: 72}
+    - name: OVNI-ROJO-132x71_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 432
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 36}
+        - {x: -33.5, y: 36}
+        - {x: -64.5, y: 4}
+        - {x: -64.5, y: -36}
+        - {x: 61.5, y: -36}
+        - {x: 64.5, y: -27}
+        - {x: 64.5, y: -6}
+        - {x: 61.5, y: 2}
+    - name: OVNI-ROJO-132x71_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 360
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 36}
+        - {x: -39, y: 23}
+        - {x: -39, y: -6}
+        - {x: -38, y: -13}
+        - {x: -33, y: -25}
+        - {x: -23, y: -36}
+        - {x: 39, y: -36}
+        - {x: 39, y: 14}
+        - {x: 21, y: 36}
+    - name: OVNI-ROJO-132x71_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 360
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 36}
+        - {x: -37.5, y: 32}
+        - {x: -37.5, y: -21}
+        - {x: -22.5, y: -36}
+        - {x: 34.5, y: -36}
+        - {x: 37.5, y: -34}
+        - {x: 37.5, y: 24}
+        - {x: 17.5, y: 36}
+    - name: OVNI-ROJO-132x71_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 291
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 33}
+        - {x: -34.5, y: 28}
+        - {x: -34.5, y: -21}
+        - {x: -23.5, y: -33}
+        - {x: 34.5, y: -33}
+        - {x: 34.5, y: 10}
+        - {x: 18.5, y: 33}
+    - name: OVNI-ROJO-132x71_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 294
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 30}
+        - {x: -31.5, y: 22}
+        - {x: -31.5, y: 2}
+        - {x: -29.5, y: 0}
+        - {x: -21.5, y: 1}
+        - {x: -17.5, y: 5}
+        - {x: -11.5, y: 5}
+        - {x: -24.5, y: -1}
+        - {x: -31.5, y: -1}
+        - {x: -31.5, y: -10}
+        - {x: -28.5, y: -25}
+        - {x: -19.5, y: -30}
+        - {x: 31.5, y: -30}
+        - {x: 31.5, y: 21}
+        - {x: 13.5, y: 30}
+    - name: OVNI-ROJO-132x71_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 330
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: OVNI-ROJO-132x71_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: OVNI-ROJO-132x71_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 321
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: OVNI-ROJO-132x71_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 297
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

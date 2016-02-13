@@ -1,0 +1,17 @@
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/obj/Debug/Assembly-CSharp.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/UnityEngine.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/UnityEditor.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sergio/Proyectos DevWorms/UVG/ProyectoAssetsSergoiIvan/EjemploBasico/Temp/bin/Debug/Mono.Cecil.Mdb.dll
