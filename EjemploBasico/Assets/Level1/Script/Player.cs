@@ -1,9 +1,9 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Player : MonoBehaviour {
 
-	public float data = 0;
+	public float data = 1;
 	public Transform enemigo;
 	private Vector3 incremento;
 
